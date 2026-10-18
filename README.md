@@ -6,8 +6,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/hotel-cancellation-analysis/blob/main/notebooks/01-data-preparation.ipynb)
 
-<!-- Add a dashboard screenshot here: ![Dashboard](dashboard/dashboard.png) -->
-
+   ![Dashboard](dashboard.png)
 ---
 
 ## 1. Business Problem
