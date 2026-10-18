@@ -4,7 +4,7 @@
 
 **Interactive dashboard (Tableau Public):** [Who Cancels More? Hotel Booking Risk Dashboard](https://public.tableau.com/app/profile/maria.sanchez.gasta.adui/viz/WhoCancelsMoreHotelBookingRiskDashboard/HotelBookingCancellation-AnalysisandRiskSegmentation)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/hotel-cancellation-analysis/blob/main/notebooks/01-data-preparation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msgastanadui/hotel-cancellation-analysis/blob/main/notebooks/01-data-preparation.ipynb)
 
    ![Dashboard](dashboard.png)
 ---
